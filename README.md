@@ -1,8 +1,10 @@
-![](https://static1.squarespace.com/static/573e57871bbee0d6dea60fff/t/573e58c12eeb81f7c107e342/1511542208951/?format=200w)
+<div style="text-align:center"><img src ="https://static1.squarespace.com/static/573e57871bbee0d6dea60fff/t/573e58c12eeb81f7c107e342/1511542208951/?format=200w" /></div>
 
-# What is The Graide Network?
+## What is The Graide Network?
 
 The Graide Network connects K-12 teachers with qualified teaching assistants to grade and provide feedback on student work online. We believe that feedback is one of the most powerful instructional tools that teachers have, so we seek to give them more of it.
+
+## Who is on the team?
 
 The Graide Network was founded in 2015 by [Blair Pircon](https://www.linkedin.com/in/blairmpircon/) and [Elizabeth Nell](https://www.linkedin.com/in/enell/), and has [won numerous awards](https://www.thegraidenetwork.com/awards-recognitions/) for being a promising and impactful education technology company. In 2016, [Karl Hughes](https://www.linkedin.com/in/karllhughes/) joined as the company's CTO, and in 2017, [Eileen Dominic](https://www.linkedin.com/in/eileen-dominic-1b193346/) joined as our member success manager.
 
