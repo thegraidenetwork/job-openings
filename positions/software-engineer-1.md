@@ -10,7 +10,7 @@ As our second software engineer at The Graide Network you'll be involved with th
 
 While you will start out working mostly in our frontend code (Typescript/Angular 5), you'll also need to be okay with doing gradually more backend work over time (Laravel/PHP/MySQL). We do all our local dev in Docker containers, so you'll have to get familiar with that as well.
 
-## Projects you will likely work on
+### Projects you will likely work on
 
 We're a startup, so things change pretty often, but we've got a long list of interesting projects that our engineering team will be tackling in the coming year. Here are a few of them:
 
@@ -22,7 +22,7 @@ We're a startup, so things change pretty often, but we've got a long list of int
 - Improving our authentication system and implementing [RBAC](http://searchsecurity.techtarget.com/definition/role-based-access-control-RBAC) across our platform
 - Help with hiring, onboarding, and training future engineers
 
-## Our commitment to diversity
+### Our commitment to diversity
 
 The Graide Network serves a diverse array of students and teachers as customers, and is equally committed to creating a diverse workplace environment. We are a woman-founded business, and proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
 
