@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src ="https://static1.squarespace.com/static/573e57871bbee0d6dea60fff/t/573e58c12eeb81f7c107e342/1511542208951/?format=200w" /></div>
+<div style="text-align:center"><img src="https://static1.squarespace.com/static/573e57871bbee0d6dea60fff/t/573e58c12eeb81f7c107e342/1511542208951/?format=200w" style="margin:0 auto;" /></div>
 
 ## What is The Graide Network?
 
