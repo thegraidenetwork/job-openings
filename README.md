@@ -1,6 +1,6 @@
-# What is The Graide Network?
+![](https://static1.squarespace.com/static/573e57871bbee0d6dea60fff/t/573e58c12eeb81f7c107e342/1511542208951/?format=200w)
 
-![](https://static1.squarespace.com/static/573e57871bbee0d6dea60fff/t/573e58c12eeb81f7c107e342/1511542208951/?format=1500w)
+# What is The Graide Network?
 
 The Graide Network connects K-12 teachers with qualified teaching assistants to grade and provide feedback on student work online. We believe that feedback is one of the most powerful instructional tools that teachers have, so we seek to give them more of it.
 
