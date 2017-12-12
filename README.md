@@ -1,6 +1,6 @@
 ## What is The Graide Network?
 
-The Graide Network connects K-12 teachers with qualified teaching assistants to grade and provide feedback on student work online. We believe that feedback is one of the most powerful instructional tools that teachers have, so we seek to give them more of it.
+The Graide Network connects K-12 teachers with qualified teaching assistants to grade and provide feedback on student work online. Feedback is one of the most powerful instructional tools that teachers have, so we help them give them more of it.
 
 ## Who is on the team?
 
@@ -26,4 +26,6 @@ We are powered by a [suite of PHP microservices](https://blog.codeship.com/incre
 
 ### Our team
 
-The team is currently just me, [Karl], but we're looking to bring on two new team members in 2018. Could you be one of them? Check out the listings above for more info.
+The team is currently just me, [Karl](https://www.linkedin.com/in/karllhughes/). I've been working as an engineer and engineering manager at early stage education technology companies (Uloop and Packback) in Chicago for the past 5 years. Some of my technical strengths include [automated testing](https://www.youtube.com/watch?v=NcQryexNKhM), [microservices](https://www.youtube.com/watch?v=Q8iqzB0za6A), [Docker](https://www.karllhughes.com/posts/shiphp-book), and Laravel, but I'm pretty much a full-stack generalist.
+
+We're looking to bring on two new team members in 2018. Could you be one of them? Check out the listings above for more info.
