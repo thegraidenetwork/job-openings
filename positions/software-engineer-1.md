@@ -1,6 +1,6 @@
 # Software Engineer
 
-The Graide Network is looking for a curious, well-rounded software engineer with 2-5 years of experience who wants to use technology to make an impact on K-12 education. Our product helps save teachers time, gives students actionable, faster feedback, and trains the next generation of professional educators.
+The Graide Network is looking for a curious, well-rounded software engineer with 2-5 years of experience who wants to use technology to make an impact on K-12 education. We support teachers by expanding their capacity and amplifying their impact, while also helping to better prepare the next generation of educators. Most importantly, we are creating powerful educational moments through excellent feedback for all students.
 
 If you are passionate about education and you want to make a meaningful impact at a small company, keep reading!
 
@@ -10,13 +10,22 @@ As our second software engineer at The Graide Network you'll be involved with th
 
 While you will start out working mostly in our frontend code (Typescript/Angular 5), you'll also need to be okay with doing gradually more backend work over time (Laravel/PHP/MySQL). We do all our local dev in Docker containers, so you'll have to get familiar with that as well.
 
+### Product you'll be working on
+
+Our platform enables teachers to upload assignments and receive high-quality feedback on their students' work from qualified grading assistants who we find and vet. The product's primary workflow is:
+
+- Teachers can upload their assignments with student work attached.
+- We find and match their assignment with a Graider (typically college students studying to be teachers).
+- The Graider grades the assignment in our platform.
+- We return the assignment, student work, and automatically generated reports to the teacher.
+
 ### Projects you will likely work on
 
 We're a startup, so things change pretty often, but we've got a long list of interesting projects that our engineering team will be tackling in the coming year. Here are a few of them:
 
 - Automated [grade norming](http://oldwriting.byu.edu/media/documents/org/65.pdf) system
 - Improving the Graider profile, application, and acceptance process
-- Reworking our Graider to Assignment matching interface and backend matching algorithm
+- Reworking our Graider to Assignment matching interface and backend algorithm
 - Porting remaining pieces of our legacy frontend application to Angular, impelenting tests, and exploring ngrx for state management
 - Open sourcing Angular modules and PHP packages that could be useful to the community
 - Improving our authentication system and implementing [RBAC](http://searchsecurity.techtarget.com/definition/role-based-access-control-RBAC) across our platform
@@ -37,12 +46,12 @@ Now that you know a little more about what you'll do and the impact you'll have,
 
 ### Personality Requirements
 - You are curious, ask thoughtful questions, and are comfortable conducting independent research
-- You like to see the big picture and want to know your company's CEO on a first-name basis
+- You like to see the big picture and enjoy working with a small, tight knit team
 - You're detail-oriented with a desire to do things "the right way" even if you're not quite sure what that way is yet
 - You are an independent learner and do-er who tinkers with things all the time
 
 ### Nice to haves
-- Experience with [Angular 2+](https://angular.io/) (we're using version 5 currently), and [Angular CLI](https://github.com/angular/angular-cli)
+- Experience with [Angular](https://angular.io/) (we're using version 5 currently), and [Angular CLI](https://github.com/angular/angular-cli)
 - Automated testing experience with Karma, Jasmine, or comparable frameworks
 - Typescript
 - PHP and the Laravel Framework
