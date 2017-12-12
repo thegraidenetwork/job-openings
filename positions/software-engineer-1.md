@@ -10,7 +10,7 @@ As our second software engineer at The Graide Network you'll be involved with th
 
 While you will start out working mostly in our frontend code (Typescript/Angular 5), you'll also need to be okay with doing gradually more backend work over time (Laravel/PHP/MySQL). We do all our local dev in Docker containers, so you'll have to get familiar with that as well.
 
-### Product you'll be working on
+### The product you'll be working on
 
 Our platform enables teachers to upload assignments and receive high-quality feedback on their students' work from qualified grading assistants who we find and vet. The product's primary workflow is:
 
