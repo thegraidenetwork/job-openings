@@ -10,9 +10,7 @@ You can read more about our company on [our website](https://www.thegraidenetwor
 
 ## Are we hiring engineers?
 
-**Yes!** Check out the open position here:
-
-- [Software Engineer](/positions/software-engineer-1.md)
+**Not now.** When we are hiring we'll list the open positions here.
 
 ## About engineering at The Graide Network
 
