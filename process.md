@@ -8,7 +8,7 @@ Instead of setting up traditional "phone screenings," Our first call as a two-wa
 
 ## Step 2: In-Person Pairing Project
 
-This is the meat of the interview, and it's much more similar to what we do on a daily basis with our team members in real life. We will pick an open source project with a few issues we can make progress on in 2-3 hours, schedule a time to get together, and then you and an engineer at The Graide Network will [pair program](https://gist.github.com/jordanpoulton/607a8854673d9f22c696) on the issues.
+This is the meat of the interview, and it's much more similar to what we do on a daily basis with our team members in real life. We will pick an open source project with a few issues we can make progress on in 2-3 hours, schedule a time to get together, and then you and an engineer at The Graide Network will [pair program](https://github.com/thegraidenetwork/job-openings/blob/master/projects.md) on the issues.
 
 This helps us assess your critical thinking ability (especially when you're the navigator), your communication skills (this is a huge priority for us), the speed at which you pick up new things, and whether or not you might be a good fit for this particular role. Similarly, it allows you to see whether or not you'd like to work alongside us for the next few years. Finally, we'll do more questions and answers if there is anything that you feel like wasn't answered in the first informational session.
 
