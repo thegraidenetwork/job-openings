@@ -5,7 +5,7 @@
 - Should be a project that neither of us have done extensive work on before.
 - We should work on a reported Github issue that we can make progress on in 2 hours.
 - We'll use [Test Driven Development](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/).
-- We’ll take turns being the driver or navigator, but the candidate will likely navigate first.
+- We’ll take turns being the [driver or navigator](https://gist.github.com/jordanpoulton/607a8854673d9f22c696), but the candidate will usually navigate first.
 - I will choose and send you a link to the project we'll work on at least 24 hours before the interview.
 
 ## OSS Projects
