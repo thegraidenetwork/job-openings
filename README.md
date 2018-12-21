@@ -10,7 +10,7 @@ You can read more about our company on [our website](https://www.thegraidenetwor
 
 ## Are we hiring engineers?
 
-**Not now.** When we are hiring we'll list the open positions here.
+**Yes!** Job description is coming soon. Contact me at karl@thegraidenetwork.com to learn more.
 
 ## About engineering at The Graide Network
 
