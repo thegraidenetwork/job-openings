@@ -24,7 +24,7 @@ We are powered by a [suite of PHP microservices](https://blog.codeship.com/incre
 
 ### Our engineering team
 
-[Karl Hughes](https://www.linkedin.com/in/karllhughes/) - After helping build the first engineering team at [Packback](https://www.packback.co/), Karl joined the The Graide Network in 2016 as the company's first engineer and CTO. His technical interests include [automated testing](https://www.youtube.com/watch?v=NcQryexNKhM), [microservices](https://www.youtube.com/watch?v=Q8iqzB0za6A), [Docker](https://www.karllhughes.com/posts/shiphp-book), and PHP. In addition to his work at The Graide Network, he enjoys reading, running, traveling, and [his dog Chili](https://photos.app.goo.gl/QsgLfl0ubg0lSE8G3).
+[Karl Hughes](https://www.linkedin.com/in/karllhughes/) - After helping build the first engineering team at [Packback](https://www.packback.co/), Karl joined the The Graide Network in 2016 as the company's first engineer and CTO. His technical interests include [automated testing](https://www.youtube.com/watch?v=NcQryexNKhM), [microservices](https://www.youtube.com/watch?v=Q8iqzB0za6A), [Docker](https://www.karllhughes.com/posts/shiphp-book), and PHP. In addition to his work at The Graide Network, he enjoys reading, running, traveling, and [his dog Chili](https://www.instagram.com/urbanmutt_chilidog/).
 
 ### Our hiring process
 
