@@ -26,8 +26,6 @@ We are powered by a [suite of PHP microservices](https://blog.codeship.com/incre
 
 [Karl Hughes](https://www.linkedin.com/in/karllhughes/) - After helping build the first engineering team at [Packback](https://www.packback.co/), Karl joined the The Graide Network in 2016 as the company's first engineer and CTO. His technical interests include [automated testing](https://www.youtube.com/watch?v=NcQryexNKhM), [microservices](https://www.youtube.com/watch?v=Q8iqzB0za6A), [Docker](https://www.karllhughes.com/posts/shiphp-book), and PHP. In addition to his work at The Graide Network, he enjoys reading, running, traveling, and [his dog Chili](https://photos.app.goo.gl/QsgLfl0ubg0lSE8G3).
 
-[Rob Hameetman](https://www.linkedin.com/in/rhameetman/) - Rob joined The Graide Network in 2018 and brings six years of prior Software Engineering experience with focused expertise in JavaScript and the tooling ecosystem thereof. He enjoys making the web a more positive and open place, be it by refactoring legacy applications for increased accessibility or contributing as a Pro Bono consultant for organizations like [She Should Run](http://www.sheshouldrun.org/). In his spare time, he enjoys contributing to Open Source projects (his own and others’), programming in Go, and playing D&D.
-
 ### Our hiring process
 
 Read more about [the three-step hiring process we have at The Graide Network here](https://github.com/thegraidenetwork/job-openings/blob/master/process.md). No high-pressure whiteboarding sessions here!
