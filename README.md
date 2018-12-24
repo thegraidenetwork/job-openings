@@ -1,12 +1,12 @@
 ## What is The Graide Network?
 
-The Graide Network connects K-12 teachers with qualified teaching assistants to grade and provide feedback on student work online. Feedback is one of the most powerful instructional tools that teachers have, so we help them give them more of it.
+[The Graide Network](https://www.thegraidenetwork.com/) connects K-12 teachers 👩🏽‍🏫 with qualified teaching assistants to grade and provide feedback 📝 on student work online. Feedback is one of the most powerful instructional tools that teachers have, so we help them give them more of it to their students.
 
 ## Who is on the team?
 
 The Graide Network was founded in 2015 by [Blair Pircon](https://www.linkedin.com/in/blairmpircon/) and [Elizabeth Nell](https://www.linkedin.com/in/enell/), and has [won numerous awards](https://www.thegraidenetwork.com/awards-recognitions/) for being a promising and impactful education technology company. In 2018, we [closed a $1 million seed round](https://www.thegraidenetwork.com/blog-all/graidenetwork-announces-1-million-seed-round), and started growing the team.
 
-You can read more about our company on [our website](https://www.thegraidenetwork.com/), [blog](https://www.thegraidenetwork.com/blog/), or [in the news](https://www.thegraidenetwork.com/news/).
+You can read more about our company on [our website](https://www.thegraidenetwork.com/), [blog](https://www.thegraidenetwork.com/blog/), or [in the news](https://www.thegraidenetwork.com/news/). We are a mission-driven education technology company, so if education is your passion, read on. 
 
 ## Are we hiring engineers?
 
