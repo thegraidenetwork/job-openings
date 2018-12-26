@@ -6,7 +6,7 @@ If you are passionate about education and you want to make a meaningful impact a
 
 ## Job Description
 
-As our second software engineer you'll be involved with the whole development cycle - not just engineering. You will:
+As our second software engineer you'll be involved with the whole development cycle. You will:
 
 - Gather specifications from the business team at regular product meetings
 - Help plan the technical specifications and architecture of new features and changes
