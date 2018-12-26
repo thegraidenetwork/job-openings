@@ -1,18 +1,18 @@
 ## What is The Graide Network?
 
-[The Graide Network](https://www.thegraidenetwork.com/) connects K-12 teachers 👩🏽‍🏫 with qualified teaching assistants to grade and provide feedback 📝 on student work online. Feedback is one of the most powerful instructional tools that teachers have, so we help them give them more of it to their students.
+[The Graide Network](https://www.thegraidenetwork.com/) connects K-12 teachers with qualified teaching assistants to grade and provide feedback on student work online. Feedback is one of the most powerful instructional tools that teachers have, so we help them give them more of it to their students.
 
-## Who is on the team?
+## Our Story
 
-The Graide Network was founded in 2015 by [Blair Pircon](https://www.linkedin.com/in/blairmpircon/) and [Elizabeth Nell](https://www.linkedin.com/in/enell/), and has [won numerous awards](https://www.thegraidenetwork.com/awards-recognitions/) for being a promising and impactful education technology company. In 2018, we [closed a $1 million seed round](https://www.thegraidenetwork.com/blog-all/graidenetwork-announces-1-million-seed-round), and started growing the team.
+The Graide Network was founded in 2015 by [Blair Pircon](https://www.linkedin.com/in/blairmpircon/) and [Elizabeth Nell](https://www.linkedin.com/in/enell/), and has [won numerous awards](https://www.thegraidenetwork.com/awards-recognitions/) for being a promising and impactful education technology company. In 2018, we [closed a $1 million seed round](https://www.thegraidenetwork.com/blog-all/graidenetwork-announces-1-million-seed-round), and started growing the team. Currently, the team comprises 6 full-time members with plans to hire 4 more in 2019. We work with teachers at over 100 schools across the country and employ several hundred college students as part-time grading assistants.
 
 You can read more about our company on [our website](https://www.thegraidenetwork.com/), [blog](https://www.thegraidenetwork.com/blog/), or [in the news](https://www.thegraidenetwork.com/news/). We are a mission-driven education technology company, so if education is your passion, read on. 
 
-## Are we hiring engineers?
+## Are We Hiring Engineers?
 
 **Yes!** [We're currently looking for a software engineer with a passion for education](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md).
 
-## About engineering at The Graide Network
+## About Engineering at The Graide Network
 
 ### Our impact
 
@@ -31,7 +31,7 @@ See our [high level application architecture document for more detail](https://d
 
 [Karl Hughes](https://www.linkedin.com/in/karllhughes/) - After helping build the first engineering team at [Packback](https://www.packback.co/), Karl joined the The Graide Network in 2016 as the company's first engineer and CTO. His technical interests include [automated testing](https://www.youtube.com/watch?v=NcQryexNKhM), [microservices](https://www.youtube.com/watch?v=Q8iqzB0za6A), [Docker](https://www.karllhughes.com/posts/shiphp-book), and PHP. In addition to his work at The Graide Network, he enjoys reading, running, traveling, and [his dog Chili](https://www.instagram.com/urbanmutt_chilidog/).
 
-You? - [We're currently looking for a software engineer with a passion for education](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md).
+**You?** - [We're currently looking for a software engineer with a passion for education](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md).
 
 ### Our hiring process
 
