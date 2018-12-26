@@ -50,26 +50,26 @@ The Graide Network serves a diverse array of students and teachers as customers,
 Now that you know a little more about what you'll do and the impact you'll have, here's what you'll need to succeed in this role:
 
 ### Passion
-- You want to work in education, and make an impact on students and teachers' lives
-- Your personal mission and goals align with this role and our company's mission
-- You care more about the mission than you do the technology
+- You want to work in education, and make an impact on students' and teachers' lives.
+- Your personal goals align with this role and our company's mission.
+- You care more about the "why" than the "how".
 
 ### Initiative
-- You take on projects beyond your current knowledge to challenge yourself
-- You learn, create, and code in your free time
-- You notice and record problems then make an effort to solve them efficiently
+- You take on projects beyond your current knowledge to challenge yourself.
+- You learn, create, or code in your free time.
+- You notice and record problems then make an effort to solve them efficiently.
 
 ### Competence
-- You have a proven record of solving engineering problems and tracking down issues across the stack
-- You knows when to ask vs. when to figure it out on your own
-- You can develop technical solutions to business problems
-- You can communicate technical ideas to non-technical team members
-- You demonstrate an organized approach to solving problems
+- You have a proven record of solving engineering problems and tracking down issues across the stack.
+- You knows when to ask vs. when to figure it out on your own.
+- You can develop technical solutions to business problems.
+- You can communicate technical ideas to non-technical team members.
+- You demonstrate an organized approach to solving problems.
 
 ### Reliability
-- You commit to realistic timelines on the projects you take on
-- You can be counted on to do what you say
-- You are a self-starter, and find things to do even when not assigned a task directly
+- You commit to realistic timelines on the projects you take on.
+- You can be counted on to do what you say.
+- You are a self-starter, and find things to do even when not assigned a task directly.
 
 *Note: We are a "bring your own device" workplace; Mac or Linux is preferred*
 
