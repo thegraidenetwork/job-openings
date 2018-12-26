@@ -24,7 +24,9 @@ While you will start out working mostly in our frontend code, you'll also work m
 - **Continuous Integration:** Docker, Codeship
 - **Production Deployments:** Azure, Ubuntu 18.04, Forge
 
-See our [high level application architecture document for more detail](https://docs.google.com/drawings/d/1gHQoLr_zEwwn1o-pqSG7DSjPj-as58DbDlGBqVM1G7U/edit?usp=sharing).
+Here's a diagram of our tech stack to help you visualize it:
+
+![](https://i.imgur.com/ZwK0hEM.jpg)
 
 ### The product you'll be working on
 
