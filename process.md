@@ -1,6 +1,8 @@
 # Our hiring process
 
-We strive to hire the best people while encouraging diversity in our team. With that in mind, our hiring process is a little different (no whiteboarding or high-pressure tests here!) than you might be used to. Here's what to expect when applying for an [engineering job at The Graide Network](https://github.com/thegraidenetwork/job-openings):
+We strive to hire the best people while encouraging diversity in our team. With that in mind, our hiring process is a little different (no whiteboarding or high-pressure tests here!) than you might be used to.
+
+Here's what to expect when applying for an [engineering job at The Graide Network](https://github.com/thegraidenetwork/job-openings):
 
 ## Step 1: Informational Phone Interview
 
