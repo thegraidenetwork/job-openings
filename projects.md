@@ -1,6 +1,8 @@
 # Paired Programming Project
 
-The [second step of our interview process](https://github.com/thegraidenetwork/job-openings/blob/master/process.md) comprises a paired programming project. Our goal for this project is to assess your critical thinking ability (especially when you're the navigator), your communication skills (this is a huge priority for us), the speed at which you pick up new things, and whether or not you might be a good fit for this particular role.
+The [second step of our interview process](https://github.com/thegraidenetwork/job-openings/blob/master/process.md) consists of a paired programming project.
+
+Our goal for this project is to assess your critical thinking ability (especially when you're the navigator), your communication skills (this is a huge priority for us), the speed at which you pick up new things, and whether or not you might be a good fit for this particular role. At the same time, we'll hopefully have some fun and solve a realistic engineering problem.
 
 ## Rules
 - The candidate with choose 1 or more issues in our [open source rubric creator project](https://github.com/thegraidenetwork/rubric-creator/issues) to work on.
