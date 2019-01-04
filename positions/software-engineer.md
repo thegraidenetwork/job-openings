@@ -64,14 +64,21 @@ Now that you know a little more about what you'll do and the impact you'll have,
 ### Competence
 - You have a proven record of solving engineering problems and tracking down issues across the stack.
 - You knows when to ask vs. when to figure it out on your own.
-- You can develop technical solutions to business problems.
 - You can communicate technical ideas to non-technical team members.
 - You demonstrate an organized approach to solving problems.
+- You consistently ask for and implement feedback.
 
 ### Reliability
 - You commit to realistic timelines on the projects you take on.
 - You can be counted on to do what you say.
 - You are a self-starter, and find things to do even when not assigned a task directly.
+
+## Benefits
+
+- Health insurance and 401k
+- Unlimited vacation
+- Paid family leave
+- Junior hires start with a three month contract-to-hire agreement
 
 *Note: We are a "bring your own device" workplace; Mac or Linux is preferred*
 
