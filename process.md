@@ -16,6 +16,6 @@ This helps us assess your critical thinking ability (especially when you're the 
 
 ## Step 3: Meet the Founders
 
-We're a small startup, so it's important that you know and can work with the company's leadership team, and that you are bought into the mission. We don't believe that every single employee has to be _insanely passionate_ about the business, but we do think that it adds a lot of mileage to early employees. The technical problems we're solving will change often and sometimes they'll be boring, but our mission and core team is likely to be pretty consistent for the next few years.
+We're a small startup, so it's important that you know and can work with the company's leadership team, and that you are bought into the mission. We believe that a passion for education adds a lot of mileage to early employees. The technical problems we're solving will change often and sometimes they'll be boring, but our mission and core team will likely remain consistent for the next few years.
 
 Behind the scenes, we also do some other vetting (like checking references), but that's pretty much it. If you have questions or concerns about the process, feel free to reach out to [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com).
