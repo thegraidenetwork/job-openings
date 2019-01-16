@@ -6,25 +6,26 @@ If you are passionate about education and you want to make a meaningful impact a
 
 ## Job Description
 
-As our second software engineer you'll be involved with the whole development cycle. You will:
+As a software engineer you'll be involved with the whole development cycle. You will:
 
-- Gather specifications from the business team at regular product meetings
-- Help plan the technical specifications and architecture of new features and changes
+- Plan the technical specifications and architecture of new features and changes
 - Write high quality, testable code solo and with a pair
 - Spend some time tracking down and squashing bugs (we do one bug sprint per month)
+- Address security and technical debt as it arises
+- Ensure deployments succeed and that production systems stay up
 
-Learning is part of our culture, so it's okay if you haven't done everything on this list yet. Just be ready and willing to learn quickly.
+Learning is part of our culture, so it's okay if you haven't done everything on this list yet. Just be ready and willing to learn it.
 
 ### The tech we use
 
-While you will start out working mostly in our frontend code, you'll also work more with our backend over time. We do all our local dev in Docker containers, so you'll get familiar with that as well.
+While you will probably start out working in the part of our codebase you feel most comfortable with, everyone is a full-stack developer here.
 
 - **Frontend:** Typescript, Angular, Bootstrap
 - **Backend:** PHP, Laravel, MySQL, Redis, NGINX
-- **Continuous Integration:** Docker, Codeship
-- **Production Deployments:** Azure, Ubuntu 18.04, Forge
+- **Virtualization:** Docker, Docker Compose
+- **Production Deployments:** Azure, Linux, Forge
 
-Here's a diagram of our tech stack to help you visualize it:
+Here's a diagram of our tech stack to help you visualize how the pieces fit together:
 
 ![](https://i.imgur.com/ZwK0hEM.jpg)
 
@@ -36,12 +37,6 @@ Our platform enables teachers to upload assignments and receive high-quality fee
 - We find and match their assignment with a Graider (typically college students studying to be teachers).
 - The Graider grades the assignment in our platform.
 - We return the assignment, student work, and automatically generated reports to the teacher.
-
-### Projects you will likely work on
-
-We're a startup, so things change pretty often, but here's our 2019 product roadmap as it stands today:
-
-![](https://i.imgur.com/mlGirZv.png)
 
 ### Our commitment to diversity
 
@@ -77,13 +72,13 @@ Now that you know a little more about what you'll do and the impact you'll have,
 
 - Health insurance and 401k
 - Unlimited vacation
+- Monthly personal career goal setting sessions
 - Paid family leave
-- Junior hires start with a three month contract-to-hire agreement
 
 *Note: We are a "bring your own device" workplace; Mac or Linux is preferred*
 
-## How to apply
+## Get in touch to learn more
 
-Email your resume or link to your LinkedIn profile to [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com) with a short summary of your qualifications and why the job interests you.
+Want to learn more? Email [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com) to schedule a quick, confidential chat and learn more about what this role might look like.
 
 [You can read more about our team and our company here](https://github.com/thegraidenetwork/job-openings/blob/master/README.md). Thanks for taking a look!
