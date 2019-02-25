@@ -23,7 +23,7 @@ Technology is what allowed us to triple graded assignment volume without hiring 
 - **Frontend:** Typescript, Angular, Bootstrap
 - **Backend:** PHP, Laravel, MySQL, Redis, NGINX
 - **Continuous Integration:** Docker, Codeship
-- **Production Deployments:** Azure, Ubuntu 18.04, Forge
+- **Production Deployments:** Azure, Linux, Forge
 
 See our [high level application architecture document for more detail](https://docs.google.com/drawings/d/1gHQoLr_zEwwn1o-pqSG7DSjPj-as58DbDlGBqVM1G7U/edit?usp=sharing).
 
