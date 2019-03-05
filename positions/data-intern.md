@@ -48,7 +48,6 @@ Now that you know a little more about what you'll do and the impact you'll have,
 - You notice and record problems then make an effort to solve them efficiently.
 
 ### Competence
-- You have a proven record of solving engineering problems and tracking down issues across the stack.
 - You knows when to ask vs. when to figure it out on your own.
 - You can communicate technical ideas to non-technical team members.
 - You demonstrate an organized approach to solving problems.
@@ -67,7 +66,7 @@ Now that you know a little more about what you'll do and the impact you'll have,
 
 ## Get in touch to learn more
 
-Want to learn more? Email [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com) to schedule a quick, confidential chat and learn more about what this role might look like.
+Want to learn more? Email [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com) to schedule a quick, confidential chat and learn more about what this internship might look like.
 
 [You can read more about our team and our company here](https://github.com/thegraidenetwork/job-openings/blob/master/README.md). Thanks for taking a look!
 
