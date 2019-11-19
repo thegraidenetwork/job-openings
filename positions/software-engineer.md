@@ -38,6 +38,8 @@ Our platform enables teachers to upload assignments and receive high-quality fee
 - The Graider grades the assignment in our platform.
 - We return the assignment, student work, and automatically generated reports to the teacher.
 
+In 2020, our focus is on developing new reporting and mangement tools for larger schools and districts. You will take an active role in helping develop, test, and release these features with the help of the rest of the team.
+
 ### Our commitment to diversity
 
 The Graide Network serves a diverse array of students and teachers as customers, and is equally committed to creating a diverse workplace environment. We are a woman-founded business, and proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
