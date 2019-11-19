@@ -10,12 +10,12 @@ Instead of setting up traditional "phone screenings," Our first call as a two-wa
 
 ## Step 2: In-Person Pairing Project
 
-This is the meat of the interview, and it's much more similar to what we do on a daily basis with our team members in real life. We will pick an open source project with a few issues we can make progress on in 2-3 hours, schedule a time to get together, and then you and an engineer at The Graide Network will [pair program](https://github.com/thegraidenetwork/job-openings/blob/master/projects.md) on the issues.
+This is the meat of the interview, and it's much more similar to what we do on a daily basis with our team members in real life. We will pick (or create) an issue from [our open source rubric creator project](https://github.com/thegraidenetwork/rubric-creator), schedule a time to get together, and then you and an engineer at The Graide Network will [pair program](https://github.com/thegraidenetwork/job-openings/blob/master/projects.md) on the issues.
 
-This helps us assess your critical thinking ability (especially when you're the navigator), your communication skills (this is a huge priority for us), the speed at which you pick up new things, and whether or not you might be a good fit for this particular role. Similarly, it allows you to see whether or not you'd like to work alongside us for the next few years. Finally, we'll do more questions and answers if there is anything that you feel like wasn't answered in the first informational session.
+This helps us assess your critical thinking ability (especially when you're the navigator), your communication skills (this is a huge priority for us), the speed at which you pick up new things, your ability to read and work with code that you didn't write, and whether or not you might be a good fit for this particular role. Similarly, it allows you to see whether or not you'd like to work alongside us for the next few years. Finally, we'll do more questions and answers if there is anything that you feel like wasn't answered in the first informational session.
 
-## Step 3: Meet the Founders
+## Step 3: Meet the Team
 
-We're a small startup, so it's important that you know and can work with the company's leadership team, and that you are bought into the mission. We believe that a passion for education adds a lot of mileage to early employees. The technical problems we're solving will change often and sometimes they'll be boring, but our mission and core team will likely remain consistent for the next few years.
+We're a small startup, so it's important that you know and can work with the rest of the team, and that you are bought into the mission. We believe that a passion for education adds a lot of mileage to early employees. The technical problems we're solving will change often and sometimes they'll be boring, but our mission and core team will likely remain consistent for the next few years.
 
 Behind the scenes, we also do some other vetting (like checking references), but that's pretty much it. If you have questions or concerns about the process, feel free to reach out to [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com).
