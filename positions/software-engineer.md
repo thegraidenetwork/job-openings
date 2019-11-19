@@ -70,8 +70,8 @@ Now that you know a little more about what you'll do and the impact you'll have,
 
 ## Benefits
 
-- Health insurance and 401k
-- Unlimited vacation
+- Health insurance, 401k, and pre-tax CTA transit account
+- Unlimited paid vacation (our CTO takes 4-6 weeks per year)
 - Monthly personal career goal setting sessions
 - Paid family leave
 
