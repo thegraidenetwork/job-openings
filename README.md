@@ -4,7 +4,7 @@
 
 ## Our Story
 
-The Graide Network was founded in 2015 by [Blair Pircon](https://www.linkedin.com/in/blairmpircon/) and [Elizabeth Nell](https://www.linkedin.com/in/enell/), and has [won numerous awards](https://www.thegraidenetwork.com/awards-recognitions/) for being a promising and impactful education technology company. In 2018, we [closed a $1 million seed round](https://www.thegraidenetwork.com/blog-all/graidenetwork-announces-1-million-seed-round), and started growing the team. Currently, the team comprises 6 full-time members with plans to hire 4 more in 2019. We work with teachers at over 100 schools across the country and employ several hundred college students as part-time grading assistants.
+The Graide Network was founded in 2015 by [Blair Pircon](https://www.linkedin.com/in/blairmpircon/) and [Elizabeth Nell](https://www.linkedin.com/in/enell/), and has [won numerous awards](https://www.thegraidenetwork.com/awards-recognitions/) for being a promising and impactful education technology company. In 2018, we [closed a $1 million seed round](https://www.thegraidenetwork.com/blog-all/graidenetwork-announces-1-million-seed-round), and started growing the team. Currently, the team comprises 9 full-time members. We work with teachers at over 100 schools across the country and employ several hundred college students as part-time grading assistants.
 
 You can read more about our company on [our website](https://www.thegraidenetwork.com/), [blog](https://www.thegraidenetwork.com/blog/), or [in the news](https://www.thegraidenetwork.com/news/). We are a mission-driven education technology company, so if education is your passion, read on. 
 
