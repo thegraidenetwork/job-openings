@@ -27,7 +27,7 @@ While you will probably start out working in the part of our codebase you feel m
 
 Here's a diagram of our tech stack to help you visualize how the pieces fit together:
 
-![](https://i.imgur.com/ZwK0hEM.jpg)
+![The Graide Network Architecture Diagram](https://i.imgur.com/dma5gso.jpg)
 
 ### The product you'll be working on
 
