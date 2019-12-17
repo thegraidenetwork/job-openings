@@ -10,7 +10,7 @@ You can read more about our company on [our website](https://www.thegraidenetwor
 
 ## Are We Hiring Engineers?
 
-**Yes!** [We're currently looking for a software engineer with a passion for education](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md).
+Not right now, but we'd love to stay in touch. Email [karl@thegraidenetwork.com](mailto:karl@thegraidenetwork.com) to let us know you're interested.
 
 ## About Engineering at The Graide Network
 
