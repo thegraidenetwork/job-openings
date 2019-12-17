@@ -33,8 +33,6 @@ See our [high level application architecture document for more detail](https://d
 
 [Hollie Lambert](https://www.linkedin.com/in/hollielambert/) - Hollie joined The Graide Network in 2019 after completing a selective teaching fellowship at [Fullstack Academy](https://www.fullstackacademy.com/), a top-ranked coding bootcamp. Hollie graduated from the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) with a degree in Women’s Studies. She made her career change into tech so she could build meaningful products that have a positive impact on the world.
 
-**You?** - [We're currently looking for a software engineer with a passion for education](https://github.com/thegraidenetwork/job-openings/blob/master/positions/software-engineer.md).
-
 ### Our hiring process
 
 Read more about [the three-step hiring process we have at The Graide Network here](https://github.com/thegraidenetwork/job-openings/blob/master/process.md). No high-pressure whiteboarding sessions here!
