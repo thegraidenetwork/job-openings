@@ -33,6 +33,8 @@ See our [high level application architecture document for more detail](https://d
 
 [Hollie Lambert](https://www.linkedin.com/in/hollielambert/) - Hollie joined The Graide Network in 2019 after completing a selective teaching fellowship at [Fullstack Academy](https://www.fullstackacademy.com/), a top-ranked coding bootcamp. Hollie graduated from the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/) with a degree in Women’s Studies. She made her career change into tech so she could build meaningful products that have a positive impact on the world.
 
+[Alyssa Nickow](https://www.linkedin.com/in/alyssa-nickow/) - Alyssa joined The Graide Network in 2020 from [NextCapital](https://www.nextcapital.com/).  Before changing careers, she taught middle school mathematics then participated in [New Leaders' Aspiring Principals Program](https://newleaders.org/programs/aspiring-principals/) and became a school administrator.  In late 2017, she completed [Coding Dojo's](https://www.codingdojo.com/) bootcamp and an apprenticeship with [The Difference Engine](https://www.thedifferenceengine.io/), where she now serves on the Board of Directors.  Alyssa is passionate about education and the fight for educational equity. 
+
 ### Our hiring process
 
 Read more about [the three-step hiring process we have at The Graide Network here](https://github.com/thegraidenetwork/job-openings/blob/master/process.md). No high-pressure whiteboarding sessions here!
